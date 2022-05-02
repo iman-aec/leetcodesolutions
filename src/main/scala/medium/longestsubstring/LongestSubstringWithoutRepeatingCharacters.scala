@@ -28,8 +28,6 @@ object LongestSubstringWithoutRepeatingCharacters extends App {
 //scala> "teststring".inits.toList
 //val res2: List[String] = List(teststring, teststrin, teststri, teststr, testst, tests, test, tes, te, t, "")
 
-/**
- * Runtime: 3305 ms, faster than 6.76% of Scala online submissions for Longest Substring Without Repeating Characters.
- * Memory Usage: 488 MB, less than 5.34% of Scala online submissions for Longest Substring Without Repeating Characters.
- */
 
+//Runtime: 3305 ms, faster than 6.76% of Scala online submissions for Longest Substring Without Repeating Characters.
+//Memory Usage: 488 MB, less than 5.34% of Scala online submissions for Longest Substring Without Repeating Characters.
